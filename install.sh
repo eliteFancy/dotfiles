@@ -10,7 +10,7 @@ DOTFILES_DIR=~/gits/dotfiles
 
 # 定义你需要管理的文件列表（以后增加了新文件，只需加在这里）
 
-FILES=".bashrc .vimrc"
+FILES=".bashrc .vimrc .gitconfig .tmux.conf"
 
 
 
